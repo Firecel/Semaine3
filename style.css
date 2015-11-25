@@ -1,0 +1,38 @@
+html{
+    background-image: none;
+    background-image: url(https://pixabay.com/get/4e690d26d299f3a2b173/1448441615/frames-1010422_1920.png?direct);
+    background-size: cover;
+    background-size: 504px 654px;
+    font-size: 14px;
+    font-family: Cursive;
+}
+
+.nom{
+    text-align: left;
+    margin-left: 260px;
+    margin-top: 50px;
+}
+
+.coordonnees{
+    text-align: left;
+    margin-left: 260px;
+    margin-top: 25px;
+    font-size: 12px;
+}
+
+.exp{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.formations{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+p{
+    margin-left: 300px;
+    margin-top: -35px;
+}
